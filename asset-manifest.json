@@ -1,23 +1,31 @@
 {
   "files": {
     "main.css": "/playground/static/css/main.dd5eab56.chunk.css",
-    "main.js": "/playground/static/js/main.7c6dee20.chunk.js",
-    "main.js.map": "/playground/static/js/main.7c6dee20.chunk.js.map",
-    "runtime-main.js": "/playground/static/js/runtime-main.927a30d0.js",
-    "runtime-main.js.map": "/playground/static/js/runtime-main.927a30d0.js.map",
-    "static/js/2.a4009538.chunk.js": "/playground/static/js/2.a4009538.chunk.js",
-    "static/js/2.a4009538.chunk.js.map": "/playground/static/js/2.a4009538.chunk.js.map",
+    "main.js": "/playground/static/js/main.bb11c78a.chunk.js",
+    "main.js.map": "/playground/static/js/main.bb11c78a.chunk.js.map",
+    "runtime-main.js": "/playground/static/js/runtime-main.d85266bd.js",
+    "runtime-main.js.map": "/playground/static/js/runtime-main.d85266bd.js.map",
+    "static/js/2.f671c99e.chunk.js": "/playground/static/js/2.f671c99e.chunk.js",
+    "static/js/2.f671c99e.chunk.js.map": "/playground/static/js/2.f671c99e.chunk.js.map",
+    "static/js/3.058cf233.chunk.js": "/playground/static/js/3.058cf233.chunk.js",
+    "static/js/3.058cf233.chunk.js.map": "/playground/static/js/3.058cf233.chunk.js.map",
+    "static/js/4.cd944ff7.chunk.js": "/playground/static/js/4.cd944ff7.chunk.js",
+    "static/js/4.cd944ff7.chunk.js.map": "/playground/static/js/4.cd944ff7.chunk.js.map",
+    "static/js/5.8c8245eb.chunk.js": "/playground/static/js/5.8c8245eb.chunk.js",
+    "static/js/5.8c8245eb.chunk.js.map": "/playground/static/js/5.8c8245eb.chunk.js.map",
     "index.html": "/playground/index.html",
-    "precache-manifest.e6da7cd83dd91c3f70afefae8c05a034.js": "/playground/precache-manifest.e6da7cd83dd91c3f70afefae8c05a034.js",
+    "precache-manifest.8148f22a295272e3fd4aee787b62ee02.js": "/playground/precache-manifest.8148f22a295272e3fd4aee787b62ee02.js",
     "service-worker.js": "/playground/service-worker.js",
     "static/css/main.dd5eab56.chunk.css.map": "/playground/static/css/main.dd5eab56.chunk.css.map",
-    "static/js/2.a4009538.chunk.js.LICENSE.txt": "/playground/static/js/2.a4009538.chunk.js.LICENSE.txt",
+    "static/js/2.f671c99e.chunk.js.LICENSE.txt": "/playground/static/js/2.f671c99e.chunk.js.LICENSE.txt",
+    "static/js/4.cd944ff7.chunk.js.LICENSE.txt": "/playground/static/js/4.cd944ff7.chunk.js.LICENSE.txt",
+    "static/js/5.8c8245eb.chunk.js.LICENSE.txt": "/playground/static/js/5.8c8245eb.chunk.js.LICENSE.txt",
     "static/media/main.css": "/playground/static/media/icons.45b50ab0.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.927a30d0.js",
-    "static/js/2.a4009538.chunk.js",
+    "static/js/runtime-main.d85266bd.js",
+    "static/js/2.f671c99e.chunk.js",
     "static/css/main.dd5eab56.chunk.css",
-    "static/js/main.7c6dee20.chunk.js"
+    "static/js/main.bb11c78a.chunk.js"
   ]
 }
